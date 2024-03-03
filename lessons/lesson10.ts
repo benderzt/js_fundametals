@@ -10,3 +10,9 @@ var firstCustoner: Customer = {
     lastName: 'Ivanov',
     active: true
 }
+
+var secondCustoner: Customer = {
+    firtName: 'Ivan',
+    lastName: 'Ivanov',
+    active: true
+}
